@@ -1,4 +1,4 @@
-# Symulator Linii Kolejowej
+# RailwayLineSimulator
 
 Projekt symulatora ruchu pociągów na odcinku kolejowym, zrealizowany w języku **C++**. Aplikacja pozwala na dynamiczne zarządzanie różnymi typami pojazdów oraz symulację ich przemieszczania się w zmiennych warunkach pogodowych.
 
