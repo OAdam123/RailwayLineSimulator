@@ -1,4 +1,4 @@
-[EN] - [English version](#projecttetristype-en) | [PL] - [Wersja polska](#projecttetristype-pl) 
+[EN] - [English version](#railwaylinesimulator-en) | [PL] - [Wersja polska](#railwaylinesimulator-pl) 
 
 # RailwayLineSimulator [EN]
 
